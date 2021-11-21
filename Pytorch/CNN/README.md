@@ -7,9 +7,9 @@ Comming soon:
     and 
     https://www.youtube.com/watch?v=ACmuBbuXn20&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz&index=20
     
-    The main article for implementaion: https://arxiv.org/pdf/1409.1556.pdf
-    Also used: https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html
-and https://pytorch.org/docs/stable/generated/torch.nn.Sequential.html
+    The main article for implementaion: https://arxiv.org/pdf/1409.1556.pdf, 
+https://towardsdatascience.com/weight-initialization-in-neural-networks-a-journey-from-the-basics-to-kaiming-954fb9b47c79
+    Also used: https://pytorch.org/docs/stable/nn.html
 - AlexNet
 - Resnet
 
